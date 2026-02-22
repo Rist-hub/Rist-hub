@@ -10,6 +10,8 @@
 
 </div>
 
+<div align="center">
+  
 ## 👨‍💻 About Me
 
 - 🎓 MSc in Computer Science  
@@ -19,6 +21,7 @@
 - 🎯 Target Role: Backend Developer  
 
 ---
+</div>
 
 <div align="center">
 
@@ -28,7 +31,7 @@
 Java • J2EE • Spring Boot  
 
 ### 🗄 Database
-SQL (MySQL / PostgreSQL)
+SQL (MySQL)
 
 ---
 
@@ -43,8 +46,8 @@ SQL (MySQL / PostgreSQL)
 
 ## 📫 Connect With Me
 
-<h4>LinkedIn - </h4> www.linkedin.com/in/rishabh-sharma-4a0b74207  
-<h4>Email - </h4> rishabh981215@gmail.com 
+<h4>LinkedIn  </h4> www.linkedin.com/in/rishabh-sharma-4a0b74207  
+<h4>Email  </h4> rishabh981215@gmail.com 
 
 ---
 
