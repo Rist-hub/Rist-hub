@@ -28,10 +28,16 @@
 ## 🛠 Tech Stack
 
 ### 🚀 Backend
-Java • J2EE • Spring Boot  
 
-### 🗄 Database
-SQL (MySQL)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+</p>
+
+### 🌐 Frontend (The Holy Trinity)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
 ---
 
